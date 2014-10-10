@@ -1,7 +1,7 @@
 PCR-GLOBWB_input_example
 ========================
 
-This repo contains sample datasets for running PCR-GLOBWB. 
+This repo contains (small) sample datasets for running PCR-GLOBWB. 
 
 Contact: E.H.Sutanudjaja@uu.nl
 
