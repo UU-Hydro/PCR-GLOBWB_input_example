@@ -1,0 +1,10 @@
+echo load pcraster
+set PATH=d:\opt\PCRaster\pcraster-4.1.0_x86-64\bin\
+set PYTHONPATH=d:\opt\PCRaster\pcraster-4.1.0_x86-64\python\
+
+echo load gdal (osgeo)
+set PATH=d:\opt\OSGeo4W64\bin\;%PATH%
+
+echo start python (using Anaconda 64bit)
+c:\Anaconda\python.exe
+
