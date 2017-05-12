@@ -2,7 +2,7 @@
 #SBATCH -N 1
 #SBATCH -p normal
 #SBATCH -t 0:30:00
-#SBATCH --reservation=pcrglobwb 
+##################SBATCH --reservation=pcrglobwb 
 
 # --reservation=pcrglobwb is needed for PCR-GLOBWB training on 15-19 May 2017
 # -t : Wall clock time (example: 80:00:00 for 80 hours). Please calculate it, maxiumum until the end of the course. 
